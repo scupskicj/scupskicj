@@ -1,16 +1,17 @@
-## Hi there 👋
+<!---WSU prof asked to put my name in here, but putting personal details on a public site on the internet is stupid, so we're doing first and middle initial and last name.--->
+C. J. Scupski
 
-<!--
-**scupskicj/scupskicj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Full stack web applications developer slaving away at the tax payer's expense.
 
-Here are some ideas to get you started:
+Currently pursuing a B.S. Computer Science degree at Wright State University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+### ^90^Sr and ^89^Sr Analysis
+
+Web application supporting laboratory analysts performing ^90^Sr and ^89^Sr analysis. Tracks sample data, including collection timestamps and chain of custody. Combines with laboratory results imported via .csv files to calculate a final result in the desired reporting units.
+
+### Occupational and Environmental Health Auditing Questionnaire Editor
+
+Modifications to auditing application to expand editing capabilities for questionnaires taken by tracked locations to verify compliance with health and safety practices.
