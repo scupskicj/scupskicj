@@ -8,9 +8,9 @@ Currently pursuing a B.S. Computer Science degree at Wright State University.
 
 ## Current Projects
 
-### ^90^Sr and ^89^Sr Analysis
+### <sup>90</sup>Sr and <sup>89</sup>Sr Analysis
 
-Web application supporting laboratory analysts performing ^90^Sr and ^89^Sr analysis. Tracks sample data, including collection timestamps and chain of custody. Combines with laboratory results imported via .csv files to calculate a final result in the desired reporting units.
+Web application supporting laboratory analysts performing <sup>90</sup>Sr and <sup>89</sup>Sr analysis. Tracks sample data, including collection timestamps and chain of custody. Combines with laboratory results imported via .csv files to calculate a final result in the desired reporting units.
 
 ### Occupational and Environmental Health Auditing Questionnaire Editor
 
